@@ -27,10 +27,10 @@ Sie läßt sich installieren mit:
    pip install playwright
    playwright install
 
-Grundlegende Browser-Interaktionen
-----------------------------------
 
-Playwright kann die Browser
+Playwright kann die Browser **Chrome, Firefox und Safari** fernsteuern.
+Sämtliche Schritte einer Web-Session wie Besuchen von Webseiten, Ausfüllen Formularen und dynamische Seitenelemente lassen sich damit abdecken.
+Damit ist Playwright ausgezeichnet für End-to-End-Tests und ausgedehnte Automatisierungen geeignet.
 
 .. literalinclude:: playwright_example.py
 
@@ -47,7 +47,7 @@ HTML-Elemente identifizieren
 ----------------------------
 
 Da sich Inhalt und Design von Webseiten häufig ändern, verursachen Skripte, die von den genauen IDs Arten von Elementen einer HTML-Seite abhängen einen hohen Wartungsaufwand.
-Deshalb verwendet Playwright generische Funktionen, welche sich auf die Funktion eines gegebenen Elements beziehen:
+Deshalb verwendet Playwright zum lokalisieren von Elementen neben der klassischen ``id`` generische Funktionen, welche sich auf die Funktion eines gegebenen Elements beziehen:
 
 .. code::
    

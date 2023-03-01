@@ -145,16 +145,18 @@ Ein gut dokumentiertes Übungsbeispiel ist die Google API, mit der sich beispiel
 
 ----
 
-Beispiel: Star-Wars-Tabelle
----------------------------
+.. card::
+   :shadow: lg
 
-Verwende den Endpoint ``planets/`` der Star Wars API, indem Du als ``id`` eine Zahl einsetzt:
+   **Übung: Star-Wars-Tabelle**
 
-.. code::
+   Verwende den Endpoint ``planets/`` der Star Wars API, indem Du als ``id`` eine Zahl einsetzt:
+
+   .. code::
+      
+      https://swapi.dev/api/planets/{id}/?format=json
    
-   https://swapi.dev/api/planets/{id}/?format=json
-
-Sammle Daten, um eine Tabelle mit Name, Klima und Bevölkerung von 5 Planeten aus Star Wars zu befüllen und speichere sie ab.
+   Sammle Daten, um eine Tabelle mit Name, Klima und Bevölkerung von 5 Planeten aus Star Wars zu befüllen und speichere sie ab.
 
 ----
 

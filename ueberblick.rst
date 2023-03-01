@@ -23,6 +23,4 @@ Vorgehensweise und Methoden
 Entwicklungsumgebung
 --------------------
 
-Als Entwicklungsumgebung empfehlen wir für die Teilnehmer,
-PyCharm-Community oder auch VSCode.
-
+Als Entwicklungsumgebung empfehle ich die PyCharm-Community edition oder VSCode.

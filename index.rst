@@ -7,8 +7,8 @@ Automatisierung mit Python
 ==========================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Inhalt:
 
    ueberblick.rst
    dateiverwaltung/README.rst
@@ -16,5 +16,17 @@ Automatisierung mit Python
    apis_automatisieren/README.rst
    web_scraping/README.rst
    web_browsing/README.rst
-   gui_automatisieren/README.rst
+   regex/README.rst
    links.rst
+
+.. note::
+
+   **Lizenzvermerk:**
+
+   Nutzbar unter den Bedingungen der Creative Commons Attribution Share-alike License 4.0
+
+   An der Erstellung dieser Materialien waren beteiligt:
+
+   *Kristian Rother, Paul Wlodkowski, Tom Gadsby, Stefan Roth, Gesa Johannsen, Ugur Ural, Malte Bonart, Paula Gonzalez, Samuel Adams McGuire und Sara Maras*
+
+   übersetzt aus dem Englischen von Kristian Rother.

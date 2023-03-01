@@ -50,10 +50,12 @@ Vom Betriebssystem ist eine maximale Anzahl offener Dateien vorgegeben.
 Auch beim Schließen von Python oder bei Programmabbruch weden Dateien geschlossen.
 
    
-Übung:
-++++++
+.. card::
+   :shadow: lg
 
-Erzeuge eine Textdatei `hallo.txt` mit einem Texteditor, schreibe etwas herein und gib den Inhalt mit dem obigen Code aus.
+   **Übung:**
+
+   Erzeuge eine Textdatei `hallo.txt` mit einem Texteditor, schreibe etwas herein und gib den Inhalt mit dem obigen Code aus.
 
 ----
 
@@ -71,10 +73,12 @@ Die Zeilenumbrüche müssen jedoch explizit hinzugefügt werden:
 Der Parameter `w` erzeugt eine leere Datei (und überschreibt eine bereits vorhandene).
 Mit `a` lässen sich an eine vorhandene Datei neue Zeilen anhängen.
 
-Übung:
-++++++
+.. card::
+   :shadow: lg
 
-Schreibe mehrere Zeilen in eine Datei und lies sie wieder aus.
+   **Übung:**
+
+   Schreibe mehrere Zeilen in eine Datei und lies sie wieder aus.
 
 .. hint::
 
@@ -116,11 +120,13 @@ Die wichtigsten sind:
     `os.path Dokumentation <https://docs.python.org/3/library/os.path.html#module-os.path>`__ 
 
 
-Übung:
-++++++
+.. card::
+   :shadow: lg
 
-Führe einige der obigen Befehle in einem interaktiven Python-Terminal aus.
-Finde heraus was sie tun (z.B. auf `devdocs.io <devdocs.io/>`__)
+   **Übung:**
+
+   Führe einige der obigen Befehle in einem interaktiven Python-Terminal aus.
+   Finde heraus was sie tun (z.B. auf `devdocs.io <devdocs.io/>`__)
 
 
 ----
