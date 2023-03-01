@@ -212,9 +212,11 @@ Vervollständige das folgende Programm und bringe es zum Laufen:
 
 ----
 
-Fragen
-------
 
-* wie machen sich falsch geschriebene Pfade und Dateinamen bemerkbar?
-* worin unterscheiden sich absolute und relative Pfade?
-* was sind **character encodings**?
+.. note:: 
+    
+   **Fragen**
+
+   * wie machen sich falsch geschriebene Pfade und Dateinamen bemerkbar?
+   * worin unterscheiden sich absolute und relative Pfade?
+   * was sind **character encodings**?

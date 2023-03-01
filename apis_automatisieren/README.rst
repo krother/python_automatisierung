@@ -79,11 +79,13 @@ Hier ist eine Anfrage an die `Star Wars API <https://swapi.dev/documentation>`__
 
 .. literalinclude:: example_api_request.py
 
-Übung
-+++++
+.. card::
+   :shadow: lg
 
-Führe den Code aus.
-Wähle einen anderen Endpoint aus der `Star Wars API Dokumentation <https://swapi.dev/documentation>`__ und stelle den Code um.
+   **Übung**
+
+   Führe den Code aus.
+   Wähle einen anderen Endpoint aus der `Star Wars API Dokumentation <https://swapi.dev/documentation>`__ und stelle den Code um.
 
 ----
 

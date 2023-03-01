@@ -12,6 +12,7 @@ Automatisierung mit Python
 
    ueberblick.rst
    dateiverwaltung/README.rst
+   dateiformate/README.rst
    apis_automatisieren/README.rst
    web_scraping/README.rst
    web_browsing/README.rst
