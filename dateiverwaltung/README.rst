@@ -2,8 +2,9 @@
 Dateiverwaltung automatisieren
 =============================
 
-**BILD VERZEICHNIS UNTERVERZEICHNIS DATEINAME**
+.. figure:: pfade.svg
 
+----
 
 Python für die Datei-Automatisierung verwenden
 ----------------------------------------------

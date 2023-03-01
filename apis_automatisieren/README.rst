@@ -15,8 +15,6 @@ APIs automatisieren
 Wie funktionieren API-Aufrufe?
 ------------------------------
 
-BILD: HTTP REQUEST -> API -> JSON -> RETURN CODE
-
 .. figure:: web_requests.png
 
 APIs bieten einen bequemen Einstieg in die Abfrage von Web-Ressourcen.

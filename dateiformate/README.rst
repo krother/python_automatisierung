@@ -18,14 +18,14 @@ Die Tabellen in ``pandas``, genannt *DataFrames*, haben zahlreiche nützliche Me
 
 Vor der Benutzung muß pandas installiert werden:
 
-.. literalinclude::
+.. code::
 
     pip install pandas
 
 
 Das Einlesen einer Datei wie :download:`penguins.csv` selbst ist wenig spektakulär:
 
-.. literalinclude::
+.. code:: python3
 
    import pandas as pd
 
@@ -55,7 +55,7 @@ Excel-Dateien
 
 ``pandas`` macht auch mit Excel-Spreadsheets kurzen Prozeß:
 
-.. code::
+.. code:: python3
 
    import pandas as pd
 
@@ -99,7 +99,7 @@ Als Beispiel soll folgendes XML-Dokument eingelesen werden:
 
 Der folgende Python-Code liest es anstandslos ein:
 
-.. literalinclude:: xml_example.py
+.. literalinclude:: parse_xml.py
 
 .. seealso::
 

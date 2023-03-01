@@ -93,7 +93,7 @@ Beginnen wir mit einem Anwendungsbeispiel:
 
    Führe den Code aus und bespreche die Fragen darunter.
 
-   .. literalinclude:: ex_bs4.py
+   .. literalinclude:: example_bs4.py
 
    -  what is the data type of the HTML document?
    -  what does the ``find_all()`` function return?

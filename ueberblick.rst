@@ -4,7 +4,8 @@
 Typische Anwendungsfälle
 ------------------------
 
-ABBILDUNG: FRONTEND-API-BACKEND-DB-PIPELINE-WEBSERVICES
+.. figure:: use_cases.svg
+
 
 -  Testen von Webseiten, APIs und Backends (Unit + Integration + End2End + Regression)
 -  Tests als Teil von CI Pipelines
