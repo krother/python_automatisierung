@@ -18,7 +18,7 @@ Automatisierung mit Python
    apis_automatisieren/README.rst
    web_scraping/README.rst
    web_browsing/README.rst
-   gui_automatisierung/README.rst
+   gui_automatisieren/README.rst
    regex/README.rst
    links.rst
 
